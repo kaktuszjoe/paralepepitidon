@@ -1,4 +1,13 @@
 //Jakabos Ábel 2023 02 20 doga
+/*
+* File: lelepi.java
+* Author: Jakabos Ábel
+* Copyright: 2023, Jakabos Ábel
+* Group: Szoft I
+* Date: 2023-02-20
+* Github: https://github.com/kaktuszjoe/paralepepitidon
+* Licenc: GNU GPL
+*/
 
 
 import java.util.Scanner;
@@ -18,10 +27,12 @@ public class lelepi {
         double c = myObj.nextDouble();
         
         double terfogat = c*a*b;
-    
         System.out.print(terfogat);
+    
+        
         
         
     
     }
+    
 }
