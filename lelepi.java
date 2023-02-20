@@ -17,6 +17,10 @@ public class lelepi {
 
         double c = myObj.nextDouble();
         
+        double terfogat = c*a*b;
+    
+        System.out.print(terfogat);
+        
         
     
     }
